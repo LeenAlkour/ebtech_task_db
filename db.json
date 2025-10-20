@@ -1,0 +1,74 @@
+{
+  "posts":[
+  {
+    "id": "1",
+    "author": "Ahmed Al-Otaibi",
+    "createdAt": "2025-10-20T09:30:00Z",
+    "updatedAt": "2025-10-20T12:45:00Z",
+    "title": "My First Post in the App",
+    "content": "This is a simple example of a test post in a Flutter app.",
+    "commentsCount": 2,
+    "comments": [
+      {
+        "id": "c1",
+        "author": "Sarah Mohammed",
+        "createdAt": "2025-10-20T10:00:00Z",
+        "content": "Great post! Thanks for sharing."
+      },
+      {
+        "id": "c2",
+        "author": "John Smith",
+        "createdAt": "2025-10-20T10:30:00Z",
+        "content": "I totally agree. Flutter is awesome!"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "author": "Sarah Mohammed",
+    "createdAt": "2025-10-19T14:15:00Z",
+    "updatedAt": "2025-10-19T16:30:00Z",
+    "title": "A Quick Programming Tip ",
+    "content": "When building Flutter apps, always try to separate your business logic from the UI.",
+    "commentsCount": 1,
+    "comments": [
+      {
+        "id": "c3",
+        "author": "Ahmed Al-Otaibi",
+        "createdAt": "2025-10-19T15:00:00Z",
+        "content": "Good reminder! Separation makes debugging much easier."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "author": "Laila Hassan",
+    "createdAt": "2025-10-18T18:45:00Z",
+    "updatedAt": "2025-10-19T09:20:00Z",
+    "title": "Exploring Flutter Widgets ",
+    "content": "Widgets are the building blocks of Flutter. Understanding stateless and stateful widgets is key to mastering Flutter UI.",
+    "commentsCount": 3,
+    "comments": [
+      {
+        "id": "c4",
+        "author": "Ahmed Al-Otaibi",
+        "createdAt": "2025-10-18T19:00:00Z",
+        "content": "Very informative! Thanks for the clear explanation."
+      },
+      {
+        "id": "c5",
+        "author": "Sarah Mohammed",
+        "createdAt": "2025-10-18T19:30:00Z",
+        "content": "I love how simple Flutter makes UI design!"
+      },
+      {
+        "id": "c6",
+        "author": "John Smith",
+        "createdAt": "2025-10-18T20:00:00Z",
+        "content": "Great post, Laila. This helped me understand stateful widgets better."
+      }
+    ]
+  }
+]
+}
+}
